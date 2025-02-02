@@ -1,1 +1,1 @@
-"# FedHPD: Heterogeneous Federated Reinforcement Learning via Policy Distillation -- Accept by AAMAS25" 
+"# FedHPD: Heterogeneous Federated Reinforcement Learning via Policy Distillation -- Accepted by AAMAS25" 
