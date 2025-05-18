@@ -2,4 +2,4 @@
 
 
 
-[![FedHPD](FedHPD-poster.png)](FedHPD-aamas-poster-template.pdf)
+[![FedHPD](FedHPD-aamas-poster-template.pdf)]
